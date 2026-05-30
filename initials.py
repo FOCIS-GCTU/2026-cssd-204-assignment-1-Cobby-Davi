@@ -2,7 +2,7 @@
 
 # Description: Print out my initials in stylized large letters.
 
-# Assignment Number: 2
+# Assignment Number: 1
 
 # 
 
